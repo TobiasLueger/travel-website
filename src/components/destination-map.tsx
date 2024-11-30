@@ -2,7 +2,7 @@ export function DestinationMap() {
   return (
     <section className="space-y-4">
       <div className="text-center space-y-2">
-        <h2 className="text-3xl font-bold">Let's find your destination</h2>
+        <h2 className="text-3xl font-bold">Let&apos;s find your destination</h2>
         <p className="text-gray-600">Go explore the World</p>
       </div>
       <div className="relative h-[400px] bg-blue-50 rounded-xl">

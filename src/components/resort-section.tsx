@@ -19,7 +19,7 @@ export function ResortSection() {
   return (
     <section className="text-center space-y-8">
       <div className="space-y-2">
-        <h2 className="text-3xl font-bold">Let's book best Resort</h2>
+        <h2 className="text-3xl font-bold">Let&apos;s book best Resort</h2>
         <p className="text-gray-600">Discover a great place to adventure</p>
       </div>
       <div className="grid md:grid-cols-3 gap-8">
